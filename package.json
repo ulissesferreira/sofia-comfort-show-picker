@@ -1,0 +1,22 @@
+{
+  "name": "sofia-comfort-show-picker",
+  "version": "1.0.0",
+  "description": "An easy way for my partner to pick the next comfort show to binge watch.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulissesferreira/sofia-comfort-show-picker.git"
+  },
+  "author": "Ulisses Ferreira <ulisses@hey.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ulissesferreira/sofia-comfort-show-picker/issues"
+  },
+  "homepage": "https://github.com/ulissesferreira/sofia-comfort-show-picker#readme",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  }
+}
